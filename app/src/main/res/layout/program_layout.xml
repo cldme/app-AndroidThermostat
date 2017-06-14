@@ -47,21 +47,21 @@
             android:layout_height="wrap_content"
             android:text="Add Switch"
             android:id="@+id/program_add"
-            android:layout_weight="1"/>
+            android:layout_weight="1" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Save Program"
             android:id="@+id/program_save"
-            android:layout_weight="1"/>
+            android:layout_weight="1" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Reset"
             android:id="@+id/program_reset"
-            android:layout_weight="1"/>
+            android:layout_weight="1" />
 
     </LinearLayout>
 
